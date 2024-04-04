@@ -3,5 +3,5 @@ Link to reference implementations, tip and techniques with databases ( OLAP, OLT
 
 **Postgres**
 * Realtime Materailized Views Using PG IVM https://github.com/shashanksingh/Awesome-Postgres-Realtime-Materialized-Tables-Using-PG-IVM
-* Realtime Materialized Views Using Timescale 
+* Realtime Materialized Views Using Timescale https://github.com/shashanksingh/Awesome-Postgres-Realtime-Materialized-Tables-Using-Timescale
 
